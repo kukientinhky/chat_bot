@@ -29,9 +29,16 @@
 
 ## 📦 Cài đặt
 
-### 1. Clone dự án và tạo môi trường ảo (tùy chọn)
+### 1. Clone dự án hoặc tải dự án và tạo môi trường ảo:
 ```bash
-git clone <repository_url>
-cd <repository_folder>
-python -m venv chatbot_env
-source chatbot_env/bin/activate  # (hoặc .\chatbot_env\Scripts\activate nếu dùng Windows)
+git clone https://github.com/kukientinhky/chat_bot.git hoặc tải trưc tiếp.
+cd CHAT_BOT
+conda create --name my_env python==3.9
+conda activate my_env
+pip install -r requirement.txt
+python chat_bot.py
+click vào link: http://127.0.0.1:7860
+
+```
+link demo: 
+
