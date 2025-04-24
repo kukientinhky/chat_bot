@@ -40,5 +40,5 @@ python chat_bot.py
 click vào link: http://127.0.0.1:7860
 
 ```
-link demo: 
+link demo: https://youtu.be/psycbvnYXEo
 
